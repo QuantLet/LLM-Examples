@@ -1,0 +1,11 @@
+Name of QuantLet : 'FlamingoExample'
+
+Published in : 'LLM Examples' 
+
+Description : 'Showing an example of flamingo doing picture captioning.'
+
+Keywords : 'Flamingo , Multimode'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, May 14 2024
