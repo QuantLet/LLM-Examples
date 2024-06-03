@@ -1,0 +1,11 @@
+Name of QuantLet : 'swish'
+
+Published in : 'LLM Examples' 
+
+Description : 'changing of swish result according to beta'
+
+Keywords : 'deep learning, swish'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Mon, Jun 3 2024
